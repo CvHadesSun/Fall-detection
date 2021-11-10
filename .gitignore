@@ -26,6 +26,12 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+output/
+dataset/
+FH_quant_tool/checkpoints_person_car/
+FH_quant_tool/data_person_car/
+FH_quant_tool/doc_snap/
+FH_quant_tool/pic_show/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
