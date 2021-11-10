@@ -32,6 +32,7 @@ FH_quant_tool/checkpoints_person_car/
 FH_quant_tool/data_person_car/
 FH_quant_tool/doc_snap/
 FH_quant_tool/pic_show/
+FH_quant_tool/initial_fullhan_checkpoint_PersonCar.bin
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
